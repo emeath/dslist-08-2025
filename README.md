@@ -5,3 +5,5 @@ Treinamento ministrado pelo profesor Nelio Alves - Devsuperior: Escola de progra
 2025-08-18 -> 2025-08-22
 
 Repositório base: https://github.com/devsuperior/dslist-backend#
+
+Este projeto é um sistema de gerenciamento de coleção de jogos
